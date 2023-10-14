@@ -1,4 +1,4 @@
-# CustomerAnalysis
+# Tableau Customer Analysis
 Tableau Customer Analysis Dashboard
 
 This project was a example of how to create an interactive customer analysis dashboard and the image below is the final product where the various worksheets combine to create the dashboard.
