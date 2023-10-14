@@ -1,4 +1,4 @@
 # CustomerAnalysis
 Tableau Customer Analysis Dashboard
 
-![](Downlowads/Customer Analysis Dashboard.pdf)
+<img src = "Downlowads/Customer Analysis Dashboard.pdf" width = 100>
